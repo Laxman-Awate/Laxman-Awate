@@ -44,7 +44,7 @@ Full-stack hospital system with role-based authentication, appointments, billing
 
 <div align="center">
 <a href="https://github.com/Laxman-Awate/Hospital-ManagementSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxman-Awate&repo=Hospital-ManagementSystem&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="Hospital-ManagementSystem"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Laxman-Awate&repo=Hospital-ManagementSystem&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="Hospital-ManagementSystem"/>
 </a>
 </div>
 
@@ -66,7 +66,7 @@ Responsive CMS blog with authentication, protected routes, and complete CRUD fun
 
 <div align="center">
 <a href="https://github.com/Laxman-Awate/CMS-Blog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxman-Awate&repo=CMS-Blog&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="CMS-Blog"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Laxman-Awate&repo=CMS-Blog&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="CMS-Blog"/>
 </a>
 </div>
 
@@ -109,8 +109,8 @@ Responsive CMS blog with authentication, protected routes, and complete CRUD fun
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Laxman-Awate&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman-Awate&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Laxman-Awate&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laxman-Awate&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Laxman-Awate&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" alt="GitHub Streak"/>
 
@@ -125,7 +125,7 @@ Responsive CMS blog with authentication, protected routes, and complete CRUD fun
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Laxman-Awate&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Laxman-Awate&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br/>
