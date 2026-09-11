@@ -43,7 +43,7 @@ const laxman = {
 Full-stack hospital system with role-based authentication, appointments, billing, and an AI-powered booking assistant built on Google Gemini and LangChain.
 
 <div align="center">
-<a href="https://github.com/Laxman-Awate/Hospital-ManagementSystem">
+<a href="https://github.com/Laxman-Awate/Hospital_Management_System.git">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Laxman-Awate&repo=Hospital-ManagementSystem&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="Hospital-ManagementSystem"/>
 </a>
 </div>
@@ -56,7 +56,7 @@ Full-stack hospital system with role-based authentication, appointments, billing
 | Auth | Role-based authentication |
 | Features | Appointments, Billing, Patient/Doctor management |
 
-🔗 **Code:** [github.com/Laxman-Awate/Hospital-ManagementSystem](https://github.com/Laxman-Awate/Hospital-ManagementSystem)
+🔗 **Code:** [https://github.com/Laxman-Awate/Hospital_Management_System.git](https://github.com/Laxman-Awate/Hospital-ManagementSystem)
 
 <br/>
 
@@ -65,7 +65,7 @@ Full-stack hospital system with role-based authentication, appointments, billing
 Responsive CMS blog with authentication, protected routes, and complete CRUD functionality — including rich-text editing, image uploads, likes, sharing, downloads, reading stats, and related posts.
 
 <div align="center">
-<a href="https://github.com/Laxman-Awate/CMS-Blog">
+<a href="https://github.com/Laxman-Awate/React_CMS_Hub.git">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Laxman-Awate&repo=CMS-Blog&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="CMS-Blog"/>
 </a>
 </div>
@@ -77,7 +77,7 @@ Responsive CMS blog with authentication, protected routes, and complete CRUD fun
 | Features | Rich-text editing, image uploads, likes, sharing, downloads, reading stats, related posts |
 | Auth | Authentication with protected routes |
 
-🔗 **Code:** [github.com/Laxman-Awate/CMS-Blog](https://github.com/Laxman-Awate/CMS-Blog)
+🔗 **Code:** [https://github.com/Laxman-Awate/React_CMS_Hub.git](https://github.com/Laxman-Awate/CMS-Blog)
 
 <br/>
 
@@ -116,11 +116,7 @@ Responsive CMS blog with authentication, protected routes, and complete CRUD fun
 
 </div>
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Laxman-Awate&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies"/>
-</div>
 
 ## 📈 Contribution Activity
 
