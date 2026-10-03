@@ -44,7 +44,7 @@ Full-stack hospital system with role-based authentication, appointments, billing
 
 <div align="center">
 <a href="https://github.com/Laxman-Awate/Hospital_Management_System.git">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Laxman-Awate&repo=Hospital-ManagementSystem&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="Hospital-ManagementSystem"/>
+ <img src="https://github-stats-extended.vercel.app/api/pin/?username=Laxman-Awate&repo=Hospital_Management_System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="Hospital-ManagementSystem"/>
 </a>
 </div>
 
@@ -66,7 +66,7 @@ Responsive CMS blog with authentication, protected routes, and complete CRUD fun
 
 <div align="center">
 <a href="https://github.com/Laxman-Awate/React_CMS_Hub.git">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Laxman-Awate&repo=CMS-Blog&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="CMS-Blog"/>
+ <img src="https://github-stats-extended.vercel.app/api/pin/?username=Laxman-Awate&repo=React_CMS_Hub&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="CMS-Blog"/>
 </a>
 </div>
 
